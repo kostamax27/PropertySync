@@ -1,6 +1,7 @@
 {
     "name": "kostamax27/propertysync",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.1",
         "pocketmine/pocketmine-mp": "^5.0.0"
